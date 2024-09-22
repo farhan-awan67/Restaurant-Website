@@ -311,6 +311,9 @@ footer {
   .main-container {
     margin: 0 auto;
   }
+  .main-container .main-content {
+    width: 100%;
+  }
   .main-container img {
     margin: 0 auto;
   }
